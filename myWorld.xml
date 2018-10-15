@@ -1,0 +1,6 @@
+<myWorld>
+    <Continent name = America>
+        <Country name = United States of America>
+           <state name = New York>
+                <city name = New York>
+                    <district name = Manhaton>
