@@ -4,22 +4,60 @@
            <state name = New York>
                 <city name = New York>
                     <district name = Manhaton>
-            <state name = CD
+            <state name = CDMX>
+                <city>
     <Continent name = Africa>
-        <Country name = Peoples Union of the Congo >   
+        <Country name = Egypt>
+        </Country>
+        <Country namme = South African Union>
+        </Country>
+        <Country name = Peoples Union of the Congo >
+        </Country> 
         <Country name = The Republic of East Africa "REA">
+        </Country>
             <state name = Coast>
-                <city name = New Mombasa
-                    <district name = district number = 1 "House District">   
-                    <district name = district number = 18 "Port Ritz">  
-                    <district name = district number = 5 "Frere Town">  
-                    <district name = district number = 37 "Down Town">  
+                <city name = New Mombasa>
+                    <district name = "1st" number = "House District">  
+                    </district> 
+                    <district name = "18th" number = "Port Ritz">
+                    </district> 
+                    <district name = "5th" number = "Frere Town">
+                    </district>
+                    <district name = "37" number = "Down Town">
+                    </district>
+                </city> name =
     <Continent name = Eurasia>
-        <Country name = Peopel Republic of China
-        <Country name = Secound Soviat Republic
+        <Country name = Peopel Republic of China>
+        </Country>
+        <Country name = Secound Soviat Republic>
+        </Country>
+        <Country name = United Kingdoms of Britannia>
+        </Country>
+        <Country name = The European Union>
+        </Country>
+            <state name = Brittany>
+            <state name = Southern France>
+            <state name = Central France>
+            <state name = Leon>
+            <state name = Madrid>
+            <state name = >
+            <state name = Louxembourg>
+            <state name = Belgium>
+            <state name = Lesser poland>
+            <state name = Romania>
+            <state name = Greece>
+            <state name = West Germany>
+            <state name = East Germany>
+            <state name = North Nordland>
+            <state name = South Nordland>
     <Continent name = Antarctica>
         <Country> The Colonies
-
+        </Country>
+        <Country name = The Peoples Korean Remnant>
+        </Country>
     <Continent name = Latin America>
         <Country name = Latin Federation of the Americas "LFA">
-        <Country name = Federative Republic of Brazil "FRB"
+        </Country>
+        <Country name = Federative Republic of Brazil "FRB">
+        <Country name = The Atlas Cooperation>
+        </Country>
