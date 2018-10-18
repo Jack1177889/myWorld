@@ -1,5 +1,5 @@
 <myWorld>
-    <Continent name = North America>
+    <Continent name = "North America">
         <Country name = United Republics of America "URA">
            <state name = New York>
                 <city name = New York>
@@ -26,30 +26,86 @@
                     <district name = "37" number = "Down Town">
                     </district>
                 </city> name =
-    <Continent name = Eurasia>
-        <Country name = Peopel Republic of China>
+    <Continent name = "Eurasia">
+        <Country name = "Peopel Republic of China">
         </Country>
-        <Country name = Secound Soviat Republic>
+        <Country name = "Secound Soviat Republic">
         </Country>
-        <Country name = United Kingdoms of Britannia>
+        <Country name = "United Kingdoms of Britannia">
         </Country>
-        <Country name = The European Union>
+        <Country name = "The European Union">
         </Country>
-            <state name = Brittany>
-            <state name = Southern France>
-            <state name = Central France>
-            <state name = Leon>
-            <state name = Madrid>
-            <state name = >
-            <state name = Louxembourg>
-            <state name = Belgium>
-            <state name = Lesser poland>
-            <state name = Romania>
-            <state name = Greece>
-            <state name = West Germany>
-            <state name = East Germany>
-            <state name = North Nordland>
-            <state name = South Nordland>
+            <state name = "Brittany">
+                <city name = "Saint-Molo">
+                <city name = "Rennes">
+                <city name = "Lorient">
+                </city>
+            </state>
+            <state name = "Southern France">
+                <city name = "Toulouse">
+                <city name = "Mountpellier">
+                <city name = "bordeaux">
+                </city>
+            </state>
+            <state name = "Central France">
+                <city name = "Bourges">
+                <city name = "Reims">
+                <city name = "Paris">
+            </state>
+            <state name = "Lyon">
+                <city name = "Macon">
+                <city name = "Lyon">
+                <city>
+            </state>
+            <state name = "Madrid">
+                <city name = "Madrid">
+                </city>
+                <city name = "Zaragoza">
+                </city>
+                <city name = "Valencia">
+                </city>
+                <city name = "Bilbao">
+                </city>
+            </state>
+            <state name = "Louxembourg">
+                <city name = "Louxembourg City">
+                </city>
+            </state>
+            <state name = "Belgium">
+            </state>
+                <city name = "Brussels">
+                <city name = "Ghent">
+                <city name = "Antwerp">
+            <state name = "Lesser Poland">
+            </state>
+                <city name = "Warsaw">
+            <state name = "Romania">
+            </state>
+                <city name = "Bucharest">
+            <state name = "Greece">
+            </state>
+                <city name = "Athens">
+            <state name = "West Germany">
+            </state>
+                <city name = "Munich">
+                <city name = "Franfurt">
+                <city name = "Hamburg">
+                <city name = "Cologne">
+            <state name = "East Germany">
+            </state>
+                <city name = "Berlin">
+                <city name = "Munich">
+                <city name = "nuremberg">
+                <city name = "Dresden">
+            <state name = "North Nordland">
+                <city name = "Oulu">
+                <city name = "Helsinki">
+                <city name = "Turku">
+            </state>
+            <state name = "South Nordland">
+            </state>
+                <city name = "Stockholm">
+                <city name = "Copenhagen">
     <Continent name = Antarctica>
         <Country> The Colonies
         </Country>
@@ -59,5 +115,6 @@
         <Country name = Latin Federation of the Americas "LFA">
         </Country>
         <Country name = Federative Republic of Brazil "FRB">
+        </Country>
         <Country name = The Atlas Cooperation>
         </Country>
