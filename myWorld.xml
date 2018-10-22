@@ -6,14 +6,14 @@
                     <district name = Manhaton>
             <state name = CDMX>
                 <city>
-    <Continent name = Africa>
-        <Country name = Egypt>
+    <Continent name = "Africa">
+        <Country name = "Egypt">
         </Country>
-        <Country namme = South African Union>
+        <Country namme = "South African Union">
         </Country>
-        <Country name = Peoples Union of the Congo >
+        <Country name = "Peoples Union of the Congo" >
         </Country> 
-        <Country name = The Republic of East Africa "REA">
+        <Country name = "The Republic of East Africa"3 "REA">
         </Country>
             <state name = Coast>
                 <city name = New Mombasa>
@@ -106,15 +106,81 @@
             </state>
                 <city name = "Stockholm">
                 <city name = "Copenhagen">
-    <Continent name = Antarctica>
-        <Country> The Colonies
+    <Continent name = "Antarctica">
+        <Country name = "The Colonies">
         </Country>
-        <Country name = The Peoples Korean Remnant>
+            <State>
+                <District>
+        <Country name = "The Colonies">
+            <State name = "Sucre">
+                <City name = "La Paz">
+                    <District name = "19">
+                    </District>
+                    <District name = "40">
+                    </District>
+                    <District name = "24">
+                    </District>
+                    <District name = "19">
+                    </District>
+                </city>
+            </state>
         </Country>
-    <Continent name = Latin America>
-        <Country name = Latin Federation of the Americas "LFA">
+        <Country name = "The Peoples Korean Remnant">
+            <State name = "Kwanso">
+                <City name = "New Pyeongyang">
+                    <District name = "139">
+                    </District>
+                    <District name = "420">
+                    </District>
+                    <District name = "241">
+                    </District>
+                    <District name = "189">
+                    </District>
+                </city>
+            </state>
         </Country>
-        <Country name = Federative Republic of Brazil "FRB">
+    </Continent>
+    <Continent name = "Latin America">
+        <Country name = "Latin Federation of the Americas" "LFA">
+            <State name = "Buenos Aires Province">
+                <City name = "Buenos Aires">
+                    <District name = "18">
+                    </District>
+                    <District name = "45">
+                    </District>
+                    <District name = "21">
+                    </District>
+                    <District name = "140">
+                    </District>
+                </city>
+            </state>
         </Country>
-        <Country name = The Atlas Cooperation>
+        <Country name = "Federative Republic of Brazil" "FRB">
+            <State name = "Rio de Janeiro">
+                <City name = "Rio de Janeiro">
+                    <District name = "1" "Central Zone">
+                    </District>
+                    <District name = "2" "West Zone">
+                    </District>
+                    <District name = "3" "East Zone">
+                    </District>
+                    <District name = "4" "North Zone">
+                    </District>
+                </city>
+            </state>
         </Country>
+        <Country name = "The Atlas Cooperation">
+            <State name = "Sucre">
+                <City name = "La Paz">
+                    <District name = "19">
+                    </District>
+                    <District name = "40">
+                    </District>
+                    <District name = "24">
+                    </District>
+                    <District name = "19">
+                    </District>
+                </city>
+            </state>
+        </Country>
+    </Continent>
