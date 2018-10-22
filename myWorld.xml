@@ -1,11 +1,26 @@
 <myWorld>
     <Continent name = "North America">
-        <Country name = United Republics of America "URA">
-           <state name = New York>
-                <city name = New York>
-                    <district name = Manhaton>
-            <state name = CDMX>
-                <city>
+        <Country name = "United Republics of America" "URA">
+           <state name = "New York">
+                <city name = "New York">
+                </city>
+                 <city name = "Conneticut">
+                </city>
+                 <city name = "Blue town">
+                </city>
+                <city name = "Eraser">
+                </city>
+                <city name = "Penicl">
+                </city>
+                <city name = "Buffalo">
+                </city>
+                <city name = "Vermoint">
+                </city>
+                <city name = "Rhode Island">
+                </city>
+            </state>
+        </Country>
+    </Continent>
     <Continent name = "Africa">
         <Country name = "Egypt">
         </Country>
@@ -15,112 +30,242 @@
         </Country> 
         <Country name = "The Republic of East Africa"3 "REA">
         </Country>
-            <state name = Coast>
-                <city name = New Mombasa>
+            <state name = "Coast">
+                <city name = "New Mombasa">
                     <district name = "1st" number = "House District">  
                     </district> 
                     <district name = "18th" number = "Port Ritz">
                     </district> 
                     <district name = "5th" number = "Frere Town">
                     </district>
-                    <district name = "37" number = "Down Town">
+                    <district name = "65" number = "Down Town">
                     </district>
-                </city> name =
+                </city>
+            </State>
+        </Country>
+    </Continent>
     <Continent name = "Eurasia">
         <Country name = "Peopel Republic of China">
-        </Country>
-        <Country name = "Secound Soviat Republic">
-        </Country>
-        <Country name = "United Kingdoms of Britannia">
-        </Country>
-        <Country name = "The European Union">
-        </Country>
             <state name = "Brittany">
                 <city name = "Saint-Molo">
+                    <district name = "56">
+                    </district>
+                </city>
                 <city name = "Rennes">
+                    <district name = "57">
+                    </district>
+                </city>
                 <city name = "Lorient">
+                    <district name = "58">
+                    </district>
+                </city>
+            </state>
+        </Country>
+        <Country name = "Secound Soviat Republic">
+            <state name = "Brittany">
+                <city name = "Saint-Molo">
+                    <district name = "59">
+                    </district>
+                </city>
+                <city name = "Rennes">
+                    <district name = "60">
+                    </district>
+                </city>
+                <city name = "Lorient">
+                    <district name = "61">
+                    </district>
+                </city>
+            </state>
+        </Country>
+        <Country name = "United Kingdoms of Britannia"><state name = "Brittany">
+                <city name = "Saint-Molo">
+                    <district name = "62">
+                    </district>
+                </city>
+                <city name = "Rennes">
+                    <district name = "63">
+                    </district>
+                </city>
+                <city name = "Lorient">
+                    <district name = "64">
+                    </district>
+                </city>
+            </state>
+        </Country>
+        <Country name = "The European Union">
+            <state name = "Brittany">
+                <city name = "Saint-Molo">
+                    <district name = "1">
+                    </district>
+                </city>
+                <city name = "Rennes">
+                    <district name = "2">
+                    </district>
+                </city>
+                <city name = "Lorient">
+                    <district name = "3">
+                    </district>
                 </city>
             </state>
             <state name = "Southern France">
                 <city name = "Toulouse">
+                    <district name = "4">
+                    </district>
                 <city name = "Mountpellier">
+                    <district name = "5">
+                    </district>
                 <city name = "bordeaux">
+                    <district name = "6">
+                    </district>
                 </city>
             </state>
             <state name = "Central France">
                 <city name = "Bourges">
+                    <district name = "7">
+                    </district>
                 <city name = "Reims">
+                    <district name = "8">
+                    </district>
                 <city name = "Paris">
+                    <district name = "9">
+                    </district>
+                </city>
             </state>
             <state name = "Lyon">
                 <city name = "Macon">
+                    <district name = "10">
+                    </district>
+                </city>
                 <city name = "Lyon">
-                <city>
+                    <district name = "11">
+                    </district>
+                </city>
             </state>
             <state name = "Madrid">
                 <city name = "Madrid">
+                     <district name = "12">
+                    </district>
                 </city>
                 <city name = "Zaragoza">
+                    <district name = "13">
+                    </district>
                 </city>
                 <city name = "Valencia">
+                    <district name = "14">
+                    </district>
                 </city>
                 <city name = "Bilbao">
+                    <district name = "15">
+                    </district>
                 </city>
             </state>
             <state name = "Louxembourg">
                 <city name = "Louxembourg City">
+                    <district name = "16">
+                    </district>
                 </city>
             </state>
             <state name = "Belgium">
-            </state>
                 <city name = "Brussels">
+                    <district name = "17">
+                    </district>
                 <city name = "Ghent">
+                    <district name = "18">
+                    </district>
                 <city name = "Antwerp">
-            <state name = "Lesser Poland">
+                    <district name = "19">
+                    </district>
             </state>
+            <state name = "Lesser Poland">
                 <city name = "Warsaw">
+                    <district name = "20">
+                    </district>
+                </city>
+            </state>
             <state name = "Romania">
             </state>
                 <city name = "Bucharest">
+                    <district name = "21">
+                    </district>
+                </city>
             <state name = "Greece">
             </state>
                 <city name = "Athens">
+                    <district name = "22">
+                    </district>
+                </city>
             <state name = "West Germany">
             </state>
                 <city name = "Munich">
+                    <district name = "23">
+                    </district>
+                </city>
                 <city name = "Franfurt">
+                    <district name = "24">
+                    </district>
+                </city>
                 <city name = "Hamburg">
+                    <district name = "25">
+                    </district>
+                </city>
                 <city name = "Cologne">
+                    <district name = "26">
+                    </district>
+                </city>
             <state name = "East Germany">
-            </state>
                 <city name = "Berlin">
+                    <district name = "27">
+                    </district>
+                </city>
                 <city name = "Munich">
+                    <district name = "28">
+                    </district>
+                </city>
                 <city name = "nuremberg">
+                    <district name = "29">
+                    </district>
+                </city>
                 <city name = "Dresden">
+                    <district name = "30">
+                    </district>
+                </city>
+            </state>
             <state name = "North Nordland">
                 <city name = "Oulu">
+                     <district name = "31">
+                    </district>
+                </city>
                 <city name = "Helsinki">
+                    <district name = "32">
+                    </district>
+                </city>
                 <city name = "Turku">
+                    <district name = "33">
+                    </district>
+                </city>
             </state>
             <state name = "South Nordland">
-            </state>
                 <city name = "Stockholm">
+                    <district name = "34">
+                    </district>
+                </city>
                 <city name = "Copenhagen">
+                    <district name = "35">
+                    </district>
+                </city>
+            </state>
+        </Country>
     <Continent name = "Antarctica">
         <Country name = "The Colonies">
-        </Country>
-            <State>
-                <District>
-        <Country name = "The Colonies">
-            <State name = "Sucre">
-                <City name = "La Paz">
-                    <District name = "19">
+            <State name = "Queen Maud Land">
+                <City name = "Asuka Station">
+                    <District name = "36">
                     </District>
-                    <District name = "40">
+                    <District name = "37">
                     </District>
-                    <District name = "24">
+                    <District name = "38">
                     </District>
-                    <District name = "19">
+                    <District name = "39">
                     </District>
                 </city>
             </state>
@@ -128,13 +273,13 @@
         <Country name = "The Peoples Korean Remnant">
             <State name = "Kwanso">
                 <City name = "New Pyeongyang">
-                    <District name = "139">
+                    <District name = "40">
                     </District>
-                    <District name = "420">
+                    <District name = "41">
                     </District>
-                    <District name = "241">
+                    <District name = "42">
                     </District>
-                    <District name = "189">
+                    <District name = "43">
                     </District>
                 </city>
             </state>
@@ -144,13 +289,13 @@
         <Country name = "Latin Federation of the Americas" "LFA">
             <State name = "Buenos Aires Province">
                 <City name = "Buenos Aires">
-                    <District name = "18">
+                    <District name = "44">
                     </District>
                     <District name = "45">
                     </District>
-                    <District name = "21">
+                    <District name = "46">
                     </District>
-                    <District name = "140">
+                    <District name = "47">
                     </District>
                 </city>
             </state>
@@ -158,13 +303,13 @@
         <Country name = "Federative Republic of Brazil" "FRB">
             <State name = "Rio de Janeiro">
                 <City name = "Rio de Janeiro">
-                    <District name = "1" "Central Zone">
+                    <District name = "48" "Central Zone">
                     </District>
-                    <District name = "2" "West Zone">
+                    <District name = "49" "West Zone">
                     </District>
-                    <District name = "3" "East Zone">
+                    <District name = "50" "East Zone">
                     </District>
-                    <District name = "4" "North Zone">
+                    <District name = "51" "North Zone">
                     </District>
                 </city>
             </state>
@@ -172,15 +317,16 @@
         <Country name = "The Atlas Cooperation">
             <State name = "Sucre">
                 <City name = "La Paz">
-                    <District name = "19">
+                    <District name = "52">
                     </District>
-                    <District name = "40">
+                    <District name = "53">
                     </District>
-                    <District name = "24">
+                    <District name = "54">
                     </District>
-                    <District name = "19">
+                    <District name = "55">
                     </District>
                 </city>
             </state>
         </Country>
     </Continent>
+</myWorld>
